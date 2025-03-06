@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_keyword": [
+                "m-team",
+                "hdarea",
+                "hdtime",
+                "icc2022",
+                "dreame",
+                "zgo",
+                "yangtf",
+                "drmim",
+                "cgmazi"
+            ],
+            "ip_cidr": [
+                "23.185.200.9",
+                "8.140.239.91",
+                "61.48.132.175"
+            ]
+        }
+    ]
+}

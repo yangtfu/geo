@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "ark.to",
+      "domain_keyword": [
+        "naiko"
+      ]
+    }
+  ]
+}
