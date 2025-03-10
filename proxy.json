@@ -1,11 +1,14 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": "ark.to",
-      "domain_keyword": [
-        "naiko"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "ark.to",
+                "browserleaks.com"
+            ],
+            "domain_keyword": [
+                "naiko"
+            ]
+        }
+    ]
 }
